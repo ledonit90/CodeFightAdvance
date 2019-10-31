@@ -64,3 +64,5 @@ public static int[] nearestVowel(string s)
     }
     return rtInt; 
 }
+
+//https://app.codesignal.com/challenge/p6bkGh29JYsSaqcjJ

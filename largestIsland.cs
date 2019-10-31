@@ -91,3 +91,4 @@ void SearchItem(HashSet<int> oldSearch, int[][] map,int id, int i, int j, int D,
         }
     }
 }
+//https://app.codesignal.com/challenge/y8gs2h5XotJDALspF

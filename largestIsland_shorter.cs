@@ -50,3 +50,4 @@ void SI(HashSet<int> oSe, int[][] map,int id, int i, int j, int D, int C)
         }
     }   
 }
+//https://app.codesignal.com/challenge/y8gs2h5XotJDALspF
