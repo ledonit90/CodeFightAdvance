@@ -1,0 +1,1 @@
+isSum=a=>Math.sqrt(1+8*a)%1==0;
